@@ -82,3 +82,12 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE) license.
+
+
+# Tristan's Notes
+
+
+# CSS
+1. take !important off the css rules that I wanted to change
+2. create ids for elements I want to change
+3. create new css rules for the ids I created
