@@ -244,7 +244,7 @@ a:hover {
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
-  color: inherit;
+  color: goldenrod;
   text-decoration: none;
 }
 
@@ -11484,8 +11484,11 @@ header.masthead h1, header.masthead .h1 {
   background-size: cover;
 }
 
-#portfolioProjects {
-  background-color: rgb(50, 124, 78);
+#portfolio {
+  background: url(../assets/img/emrakul-arriving.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 #contact {
