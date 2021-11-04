@@ -7772,9 +7772,9 @@ textarea.form-control-lg {
   color: rgba(var(--bs-body-color-rgb), var(--bs-text-opacity)) !important;
 }
 
-.text-muted {
+.text-muted { 
   --bs-text-opacity: 1;
-  color: #90a590;
+  color: #90a590;/* I don't know why, but this rule was more important than an id rule, even after I removed !important */
 }
 
 .text-black-50 {
