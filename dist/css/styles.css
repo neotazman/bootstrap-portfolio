@@ -7774,7 +7774,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #90a590;
 }
 
 .text-black-50 {
@@ -7810,7 +7810,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity));
 }
 
 .bg-secondary {
@@ -11393,7 +11393,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/cthulhu_1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11470,10 +11470,40 @@ header.masthead h1, header.masthead .h1 {
   color: rgb(132, 245, 166, 0.65)
 }
 
+#skills {
+  background: url(../assets/img/cthulhu_2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 #myLinks {
-  background-color: rgb(80, 94, 158);
+  background: url(../assets/img/cthulhu_3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 #portfolioProjects {
-  background-color: rgb(50, 124, 78)
+  background-color: rgb(50, 124, 78);
+}
+
+#contact {
+  color: rgba(149, 16, 16, 0.85);
+  background: url(../assets/img/ugin_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#contact p {
+  color: rgba(189, 132, 0, 0.85);
+}
+
+#grateful {
+  color: rgba(223, 163, 0, 0.85);
+  background: url(../assets/img/bolas_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;  
 }
