@@ -1374,8 +1374,10 @@ progress {
   }
 
   .col-lg-3 {
+    flex-flow: row wrap;
     flex: 0 0 auto;
     width: 25%;
+    justify-content: center;
   }
 
   .col-lg-4 {
@@ -11482,6 +11484,10 @@ header.masthead h1, header.masthead .h1 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+#theLinks {
+  justify-content: space-around; /* to get the both to show nicely */
 }
 
 #portfolio {
