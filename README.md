@@ -91,3 +91,5 @@ Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://g
 1. take !important off the css rules that I wanted to change
 2. create ids for elements I want to change
 3. create new css rules for the ids I created
+
+# Fix that god awful bug where the header is white when js tools are off
