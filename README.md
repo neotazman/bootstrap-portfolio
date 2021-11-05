@@ -1,12 +1,3 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/theme/creative/)
-
-[Creative](https://startbootstrap.com/theme/creative/) is a one page, creative website theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
-## Preview
-
-[![Creative Preview](https://assets.startbootstrap.com/img/screenshots/themes/creative.png)](https://startbootstrap.github.io/startbootstrap-creative/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-creative/)**
 
 ## Status
 
@@ -92,4 +83,4 @@ Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://g
 2. create ids for elements I want to change
 3. create new css rules for the ids I created
 
-# Fix that god awful bug where the header is white when js tools are off
+
