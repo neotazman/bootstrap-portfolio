@@ -83,4 +83,14 @@ Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://g
 2. create ids for elements I want to change
 3. create new css rules for the ids I created
 
-
+# Projects
+1. the code for each project
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/Multiplication_table.jpg" title="TaskMaster">
+                            <a href="https://github.com/neotazman/multiplication-table"><img class="img-fluid" src="assets/img/portfolio/thumbnails/Multiplication_table.jpg" alt="..." /></a>
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Category</div>
+                                <div class="project-name">Custom Multiplication Table</div>
+                            </div>
+                        </a>
+                    </div>
