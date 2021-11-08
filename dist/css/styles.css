@@ -11479,6 +11479,12 @@ header.masthead h1, header.masthead .h1 {
   background-size: cover;
 }
 
+#skillContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
 #myLinks {
   background: url(../assets/img/cthulhu_3.jpg);
   background-repeat: no-repeat;
@@ -11532,7 +11538,6 @@ header.masthead h1, header.masthead .h1 {
 } */
 
 #findOutMore {
-  margin: space-around;
   justify-content: center;
 }
 
