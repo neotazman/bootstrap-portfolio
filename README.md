@@ -86,11 +86,11 @@ Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://g
 # Projects
 1. the code for each project
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/Multiplication_table.jpg" title="TaskMaster">
-                            <a href="https://github.com/neotazman/multiplication-table"><img class="img-fluid" src="assets/img/portfolio/thumbnails/Multiplication_table.jpg" alt="..." /></a>
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/anagram_finder.jpg" title="Anagram Finder">
+                            <a href="https://anagram-finder.netlify.app/"><img class="img-fluid" src="assets/img/portfolio/thumbnails/anagram_finder.jpg" alt="..." /></a>
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Custom Multiplication Table</div>
+                                <div class="project-category text-white-50">Project Name</div>
+                                <div class="project-name">Anagram Finder</div>
                             </div>
                         </a>
                     </div>
