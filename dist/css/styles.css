@@ -7776,7 +7776,7 @@ textarea.form-control-lg {
 
 .text-muted { 
   --bs-text-opacity: 1;
-  color: #90a590;/* I don't know why, but this rule was more important than an id rule, even after I removed !important */
+  color: rgb(132, 245, 166, 0.65);/* I don't know why, but this rule was more important than an id rule, even after I removed !important */
 }
 
 .text-black-50 {
@@ -11463,8 +11463,8 @@ header.masthead h1, header.masthead .h1 {
 /* My Custom ID's */
 
 /* the headers for each section from the top */
-#topFieldHeader, #secondFieldHeader, #thirdFieldHeader { 
-  color: rgb(226, 248, 101, 0.65);
+#topFieldHeader, #secondFieldHeader, #thirdFieldHeader, #projectsH2 { 
+  color: rgb(226, 248, 101, 0.85);
 }
 
 /* the main text for the each section from the top */
@@ -11484,10 +11484,11 @@ header.masthead h1, header.masthead .h1 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  align-items: center;
 }
 
 #theLinks {
-  justify-content: space-around; /* to get the both to show nicely */
+  justify-content: space-around; /* to get them both to show nicely */
 }
 
 #portfolio {
@@ -11506,11 +11507,36 @@ header.masthead h1, header.masthead .h1 {
 }
 
 #contact p {
-  color: rgba(195, 0, 255, 0.85);
+  color: rgba(255, 89, 89, 1);
+  opacity: 1;
 }
 
 #grateful {
   color: rgba(255, 123, 0, 0.85);
+  background: url(../assets/img/bolas_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;  
+}
+
+#newGrateful {
+  margin-top: 50px;
+}
+
+#phone {
+  color: black;
+}
+
+/* #bottomText {
+  color: darkred;
+} */
+
+#findOutMore {
+  margin: space-around;
+  justify-content: center;
+}
+
+footer {
   background: url(../assets/img/bolas_1.jpg);
   background-repeat: no-repeat;
   background-position: center;
