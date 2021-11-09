@@ -11463,7 +11463,7 @@ header.masthead h1, header.masthead .h1 {
 /* My Custom ID's */
 
 /* the headers for each section from the top */
-#topFieldHeader, #secondFieldHeader, #thirdFieldHeader, #projectsH2 { 
+#topFieldHeader, #secondFieldHeader, #thirdFieldHeader, #projectsH2, #newGrateful { 
   color: rgb(226, 248, 101, 0.85);
 }
 
