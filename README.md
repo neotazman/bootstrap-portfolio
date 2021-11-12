@@ -94,3 +94,5 @@ Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://g
                             </div>
                         </a>
                     </div>
+
+dist\assets\img\Tristan_Alie_Full Stack Web Development.pdf
